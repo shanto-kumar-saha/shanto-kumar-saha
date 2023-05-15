@@ -21,11 +21,10 @@ I'm an SQA Engineer who is deeply passionate about finding and tracking bugs in 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shantokumarsaha123)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=shantokumarsaha123" alt="visitor badge"/></p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?usernameshantokumarsaha123&show_icons=true&theme=chartreuse-dark" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shantokumarsaha123&show_icons=true&theme=chartreuse-dark" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantokumarsaha123&theme=chartreuse-dark" />
 </p> 
 
