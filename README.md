@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Shanto Kumar Saha
+
+## 🚀 About Me
 I’m a SQA Engineer who is passionate about finding and tracking bug of any developing product and providing to customer 100% bug-free high quality product. I always utilize my technical skills and innovative thinking to ensure the delivery of high-quality software products that meet and exceed customer expectations.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shantokumarsaha123)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🚀 About Me
 - 🔭 I’m currently working on  Web automation with selenium & Java 
 - 🌱 I’m currently learning learning Automation tools & scripts 
 - 👯 I’m looking to collaborate on QA 
@@ -11,7 +12,9 @@ I’m a SQA Engineer who is passionate about finding and tracking bug of any dev
 - 💬 Ask me about Software Testing 
 - 📫 How to reach me:  shantokumarsaha123@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
+## ☕ Connect with me!
+[<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/](https://www.linkedin.com/in/shanto-kumar-saha/)  
+
 <p align="left">
 <a href="https://linkedin.com/in/shanto-kumar-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanto-kumar-saha" height="30" width="40" /></a>
 <a href="https://twitter.com/@shanto__saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shanto__saha" height="30" width="40" /></a>
