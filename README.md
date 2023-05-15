@@ -3,6 +3,7 @@ I’m a SQA Engineer who is passionate about finding and tracking bug of any dev
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shantokumarsaha123)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🚀 About Me
 - 🔭 I’m currently working on  Web automation with selenium & Java 
 - 🌱 I’m currently learning learning Automation tools & scripts 
 - 👯 I’m looking to collaborate on QA 
