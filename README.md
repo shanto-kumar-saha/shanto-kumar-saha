@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shanto kumar Saha
 #### A passionate SQA Engineer
-![A passionate SQA Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate SQA Engineer]
 
 I'm a SQA Engineer who is passionate about finding and tracking bug of any developing product and providing customer 100% bug-free high-quality product. I always utilize my technical skills and innovative thinking to ensure the delivery of high-quality software products that meet and exceed customer expectations.
 
