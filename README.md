@@ -31,7 +31,7 @@ I'm an Software Quality Assurance Engineer who is deeply passionate about findin
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantokumarsaha123&theme=chartreuse-dark" />
 </p> 
 
-
+<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
