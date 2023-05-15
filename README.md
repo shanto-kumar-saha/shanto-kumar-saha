@@ -5,13 +5,13 @@ I’m a SQA Engineer who is passionate about finding and tracking bug of any dev
 
 Skills: Manual Testing | Performance Testing | API Testing | UAT | Regression Testing | JMeter | Postman | Jira | Agile | Xmind
 
-🔭 I’m currently working on Web automation with selenium & Java
-🌱 I’m currently learning Automation tools & scripts
-👯 I’m looking to collaborate on QA
-🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing
-💬 Ask me about Software Testing
-📝 I regularly write articles on [https://shantokumarsaha.blogspot.com/2023/03/software-testing.html](https://shantokumarsaha.blogspot.com/2023/03/software-testing.html)
-📫 How to reach me: shantokumarsaha123@gmail.com
+- 🔭 I’m currently working on Web automation with selenium & Java
+- 🌱 I’m currently learning Automation tools & scripts
+- 👯 I’m looking to collaborate on QA
+- 🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing
+- 💬 Ask me about Software Testing
+- 📝 I regularly write articles on [https://shantokumarsaha.blogspot.com/2023/03/software-testing.html](https://shantokumarsaha.blogspot.com/2023/03/software-testing.html)
+- 📫 How to reach me: shantokumarsaha123@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
