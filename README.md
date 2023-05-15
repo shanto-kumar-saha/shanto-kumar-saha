@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shanto Kumar Saha
 
 ## 🚀 About Me
-I’m a SQA Engineer who is passionate about finding and tracking bug of any developing product and providing to customer 100% bug-free high quality product. I always utilize my technical skills and innovative thinking to ensure the delivery of high-quality software products that meet and exceed customer expectations.
+I'm an SQA Engineer who is deeply passionate about discovering and tracking bugs in developing products, and providing customers with 100% bug-free, high-quality products. I consistently leverage my technical skills and innovative thinking to guarantee the delivery of top-notch software products that not only meet but also surpass customer expectations."
 
 - 🔭 I’m currently working on  Web automation with selenium & Java 
 - 🌱 I’m currently learning learning Automation tools & scripts 
