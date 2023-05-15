@@ -32,6 +32,7 @@ I'm an Software Quality Assurance Engineer who is deeply passionate about findin
 </p> 
 
 <h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
