@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shanto Kumar Saha</h1>
 <h3 align="center">A passionate SQA Engineer</h3>
 
-- 📝 I regularly write articles on [https://shantokumarsaha.blogspot.com/2023/03/software-testing.html](https://shantokumarsaha.blogspot.com/2023/03/software-testing.html)
+I’m a SQA Engineer who is passionate about finding and tracking bug of any developing product and providing customer 100% bug-free high-quality product. I always utilize my technical skills and innovative thinking to ensure the delivery of high-quality software products that meet and exceed customer expectations.
 
-- 📫 How to reach me **shantokumarsaha123@gmail.com**
+Skills: Manual Testing | Performance Testing | API Testing | UAT | Regression Testing | JMeter | Postman | Jira | Agile | Xmind
+
+🔭 I’m currently working on Web automation with selenium & Java
+🌱 I’m currently learning Automation tools & scripts
+👯 I’m looking to collaborate on QA
+🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing
+💬 Ask me about Software Testing
+📝 I regularly write articles on [https://shantokumarsaha.blogspot.com/2023/03/software-testing.html](https://shantokumarsaha.blogspot.com/2023/03/software-testing.html)
+📫 How to reach me: shantokumarsaha123@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
