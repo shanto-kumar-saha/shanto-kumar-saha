@@ -1,5 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi, Shanto Kumar Saha <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h1>
 
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+SQA+Engineer"></p>
+
+
 
 ## 🚀 About Me
 I'm an SQA Engineer who is deeply passionate about finding and tracking bugs in developing products, and providing customers with bug-free, high-quality software products. I consistently leverage my technical skills and innovative thinking to ensure the delivery of top-notch software products that not only meet but also exceed customer expectations."
