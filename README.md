@@ -14,5 +14,3 @@ I’m a SQA Engineer who is passionate about finding and tracking bug of any dev
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shantokumarsaha123)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shantokumarsaha123&show_icons=true) 
-
