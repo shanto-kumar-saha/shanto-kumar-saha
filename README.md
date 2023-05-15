@@ -1,6 +1,6 @@
 <h1 left="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi, I'm Shanto Kumar Saha <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h1>
 
-<h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=An+Pasionate+Software+QA+Engineer"></h1>
+<h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=An+Software+QA+Engineer"></h1>
 
 
 
