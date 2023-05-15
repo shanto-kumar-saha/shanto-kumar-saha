@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanto Kumar Saha</h1>
 <h3 align="center">A passionate SQA Engineer</h3>
 
-I’m a SQA Engineer who is passionate about finding and tracking bug of any developing product and providing customer 100% bug-free high-quality product. I always utilize my technical skills and innovative thinking to ensure the delivery of high-quality software products that meet and exceed customer expectations.
+I’m a SQA Engineer who is passionate about finding and tracking bug of any developing product and providing to customer 100% bug-free high quality product. I always utilize my technical skills and innovative thinking to ensure the delivery of high-quality software products that meet and exceed customer expectations.
 
 Skills: Manual Testing | Performance Testing | API Testing | UAT | Regression Testing | JMeter | Postman | Jira | Agile | Xmind
 
