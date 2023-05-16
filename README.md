@@ -27,7 +27,7 @@ I'm an Software Quality Assurance Engineer who is deeply passionate about findin
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="left">
-  [<img src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
+  [<img src="https://github-readme-stats.vercel.app/api?username=shantokumarsaha123&show_icons=true&theme=chartreuse-dark" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shantokumarsaha123&show_icons=true&theme=chartreuse-dark" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantokumarsaha123&theme=chartreuse-dark" />
 </p> 
