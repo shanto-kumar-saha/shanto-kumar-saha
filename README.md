@@ -26,8 +26,8 @@ I'm an Software Quality Assurance Engineer who is deeply passionate about findin
 </p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shantokumarsaha123&show_icons=true&theme=chartreuse-dark"/> 
+<p align="Center">
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantokumarsaha123&theme=chartreuse-dark" />
 </p> 
 
