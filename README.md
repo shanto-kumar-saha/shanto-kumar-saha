@@ -2,6 +2,8 @@
 
 <h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Software+QA+Engineer"></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-hridoy" /> </p>
+
 
 
 ## 🚀 About Me
