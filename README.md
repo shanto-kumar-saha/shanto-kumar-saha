@@ -2,7 +2,7 @@
 
 <h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Software+QA+Engineer"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantokumarsaha123&label=Profile%20views&color=0e75b6&style=flat" alt="shantokumarsaha123" /> </p>
+  <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantokumarsaha123&label=Profile%20views&color=0e75b6&style=flat" alt="shantokumarsaha123" /> </p> -->
 
 
 
