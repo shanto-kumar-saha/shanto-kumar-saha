@@ -28,11 +28,11 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 
 </p>
 
- <!-- <h2> 📈 &nbsp;My GitHub History!</h2>
+ <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="Center">
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shantokumarsaha123&show_icons=true&theme=chartreuse-dark" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantokumarsaha123&theme=chartreuse-dark" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantokumarsaha123&theme=chartreuse-dark" /> 
 </p> 
 
   <!--<h1 align = 'Center'>Watch a 🐍 Eat My Github Contribution Graph</h1>
