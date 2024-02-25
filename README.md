@@ -4,8 +4,6 @@
 
   <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantokumarsaha123&label=Profile%20views&color=0e75b6&style=flat" alt="shantokumarsaha123" /> </p> -->
 
-
-
   <!--## 🚀 About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 I'm a Software Quality Assurance Engineer who is deeply passionate about finding and tracking bugs in developing products, and providing customers with bug-free, high-quality software products. I consistently leverage my technical skills and innovative thinking to ensure the delivery of top-notch software products that not only meet but also exceed customer expectations."
@@ -14,7 +12,39 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 - 🌱 I’m currently learning learning Automation tools & scripts 
 - 👯 I’m looking to collaborate on QA 
 - 🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing 
-- 💬 Ask me about Software Testing 
+- 💬 Ask me about Software Testing
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+ - 🌐 &nbsp; 
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=TestNG)
+![Cucumebr](https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=Cucumber)
+![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
+![RESTAssured](https://img.shields.io/badge/-RESTAssured-black?style=flat-square&logo=RESTAssured)
+![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=flat-square&logo=JMeter)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+- 🛢 &nbsp; 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+- 🔧 &nbsp; ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+
+- &#x270E; 
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira)
+![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=Trello)
+
+
 
 ## 📧 For Any Inquiries 
 ✅  ► shantokumarsaha123@gmail.com
