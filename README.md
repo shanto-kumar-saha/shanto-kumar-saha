@@ -45,26 +45,25 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=Trello)
 
 
-
+<!--
 ## 📧 For Any Inquiries 
 ✅  ► shantokumarsaha123@gmail.com
-
+-->
 
 <h3  align="center"  > Visit my  <a target="_blank"  href="https://about.me/shantokumarsaha" > [Portfolio]</a>  </h3> 
   
- <!--  <hr/>
-  
+<hr/>  
 <h3  align="center" > 🤝🏻 Connect with Me </h3>
 <hr/>
 
 <p align="center">
+<a  href="mailto:shantokumarsaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shantokumarsaha123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a  href="https://about.me/shantokumarsaha"><img alt="PortFolio" src="https://img.shields.io/badge/shantokumarsaha-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+ 
 
-<a href="https://https://www.linkedin.com/in/shanto-kumar-saha/"><img alt="LinkedIn" src="https://img.shields.io/badge/shanto-kumar-saha-linkedIn-brightgreen?style=flatsquare&logo=linkedin"></a>
-<a href="mailto:shantokumarsaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shantokumarsaha123@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://about.me/shantokumarsaha"><img alt="PortFolio" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/foysal619/"><img alt="LinkedIn" src="https://img.shields.io/badge/foysal619-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <!--<a href="https://www.linkedin.com/in/shanto-kumar-saha/"><img alt="LinkedIn" src="https://img.shields.io/badge/shanto-kumar-saha/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/musfiq8008/"><img alt="Facebook" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:musfiqurrahmanfoysal77@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-musfiqurrahmanfoysal77@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p> -->
 
 <!--
