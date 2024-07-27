@@ -2,14 +2,7 @@
 
 <h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Software+QA+Engineer"></h1>
 
-<p align="center">
-  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150">
-  <img src="https://pingbix.com/wp-content/uploads/2023/02/api-lifecycle.gif" width="120">
-  <img src="https://media.tenor.com/27z-u12LcDwAAAAj/testing-automation.gif" width="200">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200w.gif" width="80">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200w.gif" width="80">
+
 
   <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantokumarsaha123&label=Profile%20views&color=0e75b6&style=flat" alt="shantokumarsaha123" /> </p> -->
 
@@ -22,6 +15,15 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 - 👯 I’m looking to collaborate on QA 
 - 🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing 
 - 💬 Ask me about Software Testing
+
+<p align="center">
+  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150">
+  <img src="https://pingbix.com/wp-content/uploads/2023/02/api-lifecycle.gif" width="120">
+  <img src="https://media.tenor.com/27z-u12LcDwAAAAj/testing-automation.gif" width="200">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200w.gif" width="80">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200w.gif" width="80">
 
 
 <h3>🛠 Tech Stack</h3>
