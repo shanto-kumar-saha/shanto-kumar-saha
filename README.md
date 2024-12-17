@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/shantokumarsaha/adamalston/master/profile.gif)](https://www.adamalston.com/)
 <h1 left="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi, I'm Shanto Kumar Saha <img </h1>
 
 <!-- src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">  -->
@@ -8,9 +9,10 @@
 
 
   <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantokumarsaha123&label=Profile%20views&color=0e75b6&style=flat" alt="shantokumarsaha123" /> </p> -->
-
   <!--## 🚀 About Me -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+ <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**  -->
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> **About Me**:
 I'm a Software Quality Assurance Engineer who is deeply passionate about finding and tracking bugs in developing products, and providing customers with bug-free, high-quality software products. I consistently leverage my technical skills and innovative thinking to ensure the delivery of top-notch software products that not only meet but also exceed customer expectations."
 
 - 🔭 I’m currently working on Web automation with Playwright (JavaScript) & Mobile automation with Appium (Java) 
