@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3ecb5ee2-f379-4fc5-8e7b-831b801b612b)<h1 left="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi, I'm Shanto Kumar Saha <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h1>
+<h1 left="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi, I'm Shanto Kumar Saha <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h1>
 
 <h1 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Software+QA+Engineer"></h1>
 
@@ -17,7 +17,7 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 - 🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing 
 - 💬 Ask me about Software Testing
 - 📫 How to reach me shantokumarsaha123@gmail.com
-- 𝕏  Follow me on 𝕏 https://x.com/shanto__saha?t=3Mc1LuSoCZ49MNBqUV_pTA&s=09
+-  𝕏 Follow me on 𝕏 https://x.com/shanto__saha?t=3Mc1LuSoCZ49MNBqUV_pTA&s=09
 
 
 <p align="center">
