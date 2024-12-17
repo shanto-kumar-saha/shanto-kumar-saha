@@ -13,11 +13,11 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 - 🔭 I’m currently working on Web automation with Playwright (JavaScript) & Mobile automation with Appium (Java) 
 - 🌱 I’m currently learning learning Automation tools & scripts 
 - 👯 I’m looking to collaborate on QA
-- 📝 I regularly write articles on https://shanto-kumar-saha.hashnode.dev/
+- 📝 I regularly write articles on (https://shanto-kumar-saha.hashnode.dev/)
 - 🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing 
 - 💬 Ask me about Software Testing
-- 📫 How to reach me shantokumarsaha123@gmail.com
--  𝕏 Follow me on 𝕏 https://x.com/shanto__saha?t=3Mc1LuSoCZ49MNBqUV_pTA&s=09
+- 📫 How to reach me (shantokumarsaha123@gmail.com)
+-  𝕏 Follow me on 𝕏 (https://x.com/@shanto__saha)
 
 
 <p align="center">
