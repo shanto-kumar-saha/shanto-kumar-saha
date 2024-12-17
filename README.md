@@ -10,11 +10,13 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 I'm a Software Quality Assurance Engineer who is deeply passionate about finding and tracking bugs in developing products, and providing customers with bug-free, high-quality software products. I consistently leverage my technical skills and innovative thinking to ensure the delivery of top-notch software products that not only meet but also exceed customer expectations."
 
-- 🔭 I’m currently working on  Web & Mobile automation with Playwright (JavaScript) and Appium (Java) 
+- 🔭 I’m currently working on Web automation with Playwright (JavaScript) & Mobile automation with Appium (Java) 
 - 🌱 I’m currently learning learning Automation tools & scripts 
-- 👯 I’m looking to collaborate on QA 
+- 👯 I’m looking to collaborate on QA
+- 📝 I regularly write articles on https://shanto-kumar-saha.hashnode.dev/
 - 🤔 I’m looking for help with Web automation, Manual testing, API testing & Performance testing 
 - 💬 Ask me about Software Testing
+- 📫 How to reach me shantokumarsaha123@gmail.com
 
 <p align="center">
   <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150">
