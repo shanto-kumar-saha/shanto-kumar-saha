@@ -74,6 +74,7 @@ I'm a Software Quality Assurance Engineer who is deeply passionate about finding
 <p align="center">
 <a  href="mailto:shantokumarsaha123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shantokumarsaha123@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a  href="https://about.me/shantokumarsaha"><img alt="PortFolio" src="https://img.shields.io/badge/shantokumarsaha-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://x.com/@shanto__saha"><img alt="X" src="https://img.shields.io/badge/X-Profile-blue?style=flat-square&logo=x&logoColor=white"></a>
  
 
   <!--<a href="https://www.linkedin.com/in/shanto-kumar-saha/"><img alt="LinkedIn" src="https://img.shields.io/badge/shanto-kumar-saha/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
